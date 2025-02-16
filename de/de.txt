@@ -42,28 +42,28 @@ string "Heyho! Willkommen auf der neuen Beta-Welcome von FamicomCD! Du hast Vors
 & SMBCD &
 
 strid "smbcd_tagline"
-string "Super Mario Bros. CD (SMBCD) is a ROM hack of Super Mario World, imagining what an SMB game might be like on a CD-based console."
+string "Super Mario Bros. CD (SMBCD) ist ein ROM-Hack von Super Mario World mit der Vorstellung, wie ein Super Mario Bros. Spiel auf einer CD-basierten Konsole aussehen könnte."
 
 strid "learn_more_button"
-string "Visit Page"
+string "Seite besuchen"
 
 strid "show_more_smbcd_button"
-string "Show Resources ▼"
+string "Ressourcen zeigen ▼"
 
 strid "show_less_smbcd_button"
-string "Hide Resources ▲"
+string "Ressourcen ausblenden ▲"
 
 strid "download_smbcd_button"
-string "Download SMBCD"
+string "SMBC downloaden"
 
 strid "support_sheet_smbcd_button"
-string "Support Sheet"
+string "Support-Blatt"
 
 strid "tutorial_smbcd_button"
-string "Installation Tutorials"
+string "Installationsanleitungen"
 
 strid "smbcd_team_button"
-string "SMBCD Team Members"
+string "SMBCD-Teammitglieder"
 
 
 
@@ -71,22 +71,23 @@ string "SMBCD Team Members"
 & Support Sheet &
 
 strid "support_sheet_name"
-string "Support Sheet"
+string "Support-Blatt"
 
 strid "support_sheet_description"
-string "Since SMBCD is a rom hack and not a computer game, emulator and hardware support is vital for a smooth experience."
+string "Da SMBCD ein ROM-Hack und kein PC-Spiel ist, sind Emulator- und Hardware-Support wichtig für eine reibungslose Erfahrung."
 
 strid "support_sheet_description_p2"
 string "If you're using an emulator or hardware that isn't shown on the list below, feel free to submit notes via our <a href="https://discord.gg/wpSGt5aTuw">Discord</a>, or by <a href="mailto:support@famicomcd.org">emailing us</a>. If you're looking for the SD Card support sheet for the FXPak Pro/SD2SNES, please check the <a href="https://sd2snes.de/blog/card-list">SD2SNES Card List</a>."
+string "Wenn du einen Emulator oder Hardware verwendest, welche(r) nicht auf der Liste vertreten sind, darfst du uns gerne via <a href="https://discord.gg/wpSGt5aTuw">Discord</a>, oder per <a href="mailto:support@famicomcd.org">E-Mail</a> anschreiben. If you're looking for the SD Card support sheet for the FXPak Pro/SD2SNES, please check the <a href="https://sd2snes.de/blog/card-list">SD2SNES Card List</a>."
 
 strid "support_sheet_description_p3"
 string "For more info about an emulator (or hardware) including accuracy and links, just click on the emulator/hardware's panel."
 
 strid "yes"
-string "yes"
+string "ja"
 
 strid "no"
-string "no"
+string "nein"
 
 strid "msu1_supported"
 string "MSU-1 Supported"
